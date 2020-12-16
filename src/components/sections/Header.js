@@ -77,7 +77,6 @@ const Header = props => {
           direction={["column", "row", "row", "row"]}
           pt={[4, 4, 0, 0]}
         >
-          <MenuItems to="/">Home</MenuItems>
           <MenuItems to="/auth/login" isLast>
             <Button
               size="sm"
