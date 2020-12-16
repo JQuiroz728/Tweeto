@@ -1,6 +1,6 @@
 # Tweeto Frontend Documentation
 
-This repository holds the frontend source code for the Tweeto Scheduling Application. This project relies on the Tweeto backend server to be running simultaneously alongside with this.
+This repository holds the frontend source code for Tweeto, a Tweet Scheduling Application. This project relies on the Tweeto backend server to be running simultaneously alongside with this.
 The complete application can be found at: https://github.com/webservertweeto
 
 ![](UI.png)
